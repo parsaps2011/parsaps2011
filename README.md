@@ -63,6 +63,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parsaps2011/parsaps2011/output/snake.svg" alt="Snake animation" />
 
-###
