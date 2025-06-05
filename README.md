@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **parsa.ps2011@gmail.com**
 
-- Did you know that I have won lots of Trophies 🏆🏆🏆
+- 🎖️ I have won lots of Trophies 🏆🏆🏆
 
 - ⚡ Fun fact **I'm only 14!**
 
