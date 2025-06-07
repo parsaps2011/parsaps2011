@@ -61,9 +61,6 @@
   <img height="236" src="https://i.pinimg.com/originals/dc/10/b4/dc10b417e502480f0dc66602f2bab9a0.gif"  />
 </div>
 
-
-
-
 ###
 
 <img src="https://raw.githubusercontent.com/parsaps2011/parsaps2011/output/snake.svg" alt="Snake animation" />
