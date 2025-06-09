@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
