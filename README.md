@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="60" alt="sqlite logo"  />
